@@ -1,9 +1,27 @@
 [
-	{
-			"name": "Nature Dark Green Plant",
+		{
+			"name": "Leaves",
 			"author": "Damiano Baschiera",
 			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Nature/Nature%20157.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Nature/Nature%20157.jpg",
+			"dimensions": "1440 x 2560"
+		},{
+			"name": "Smoke",
+			"author": "Camille Couvez",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%20129.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Others/Others%20129.jpg",
+			"dimensions": "1440 x 2560"
+		},{
+			"name": "Sand",
+			"author": "Wesley Tingey",
+			"url": "https://raw.githubusercontent.com/sreeragag7/pixWalls/master/PixWalls/Others/Others%20130.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Others/Others%20130.jpg",
+			"dimensions": "1440 x 2560"
+		},{
+			"name": "Flow",
+			"author": "Alex Perez",
+			"url": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper/Amoled/Amoled%2089.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/pixwalls/Wallpaper-Thumbs/master/Wallpaper%20Thumbs/Amoled/Amoled%2089.jpg",
 			"dimensions": "1440 x 2560"
 		}
 ]
